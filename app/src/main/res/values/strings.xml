@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Guia 4</string>
+    <string name="app_name">MenuPrincipal</string>
+    <string name="servicios">Servicios</string>
+    <string name="mi_aplicaci_n_de_negocios">Mi Aplicación de Negocios</string>
+    <string name="portafolio">Portafolio</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="contacto">Contacto</string>
+    <string name="redes_sociales">Redes Sociales</string>
+    <string name="el_boton_seleccionado_es">El boton seleccionado es:</string>
+    <string name="textClickButton">El boton seleccionado es:</string>
 </resources>
